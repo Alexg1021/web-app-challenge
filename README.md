@@ -3,7 +3,7 @@
 
 ## Overview
 
-To complete this challenge, you will need to write a simple restaurant ordering web application, and provide the source files by sending a link of your github repository when you have completed the project. You will be asked to build the project in either the [React](https://reactjs.org/) or [Angular](https://angular.io/) javascript framework.
+To complete this challenge, you will need to write a simple restaurant ordering web application, and provide the source files by sending a link of your github repository when you have completed the project. You will be asked to build the project in either the [React](https://reactjs.org/) or [Angular](https://angular.io/) javascript framework. If no experience with either framework, it is acceptable to build the project a language you are more comfortable with.
 
 The purpose of this challenge is to assess your **skills and approach to composing a simple web app** given a set of screens. Your github flow and processes will also be assessed. 
 
@@ -11,7 +11,7 @@ The purpose of this challenge is to assess your **skills and approach to composi
 
 You will begin by creating your own project repository naming it "geekwise-restaurant-application"
 
-You are to build the project in either the [React](https://reactjs.org/) or [Angular](https://angular.io/) javascript based framework. The designs for the project are provided for you in the [screens](./screens/) folder. You must also use a styling framework to help create a responsively styled application. *Bootstrap is preferred. 
+You are to build the project in either the [React](https://reactjs.org/) or [Angular](https://angular.io/) javascript based framework, or an equivalent language (html/css are acceptable). The designs for the project are provided for you in the [screens](./screens/) folder. You must also use a styling framework to help create a responsively styled application. *Bootstrap is preferred. 
 
 Although this is a basic exercise, we'll be looking for **simple, well-designed, performant, and tested code** in the submission.
 
